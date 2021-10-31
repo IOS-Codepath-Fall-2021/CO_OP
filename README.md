@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# Nutrionapp
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -11,16 +11,15 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
-
+Nutrionapp is a nutrition app that assists people in pursuing a healthy and nutrient balanced lifestyle. The app is powered by the Nutritionix Database that has data on over 1 million data points on common foods, grocery and restaurant items. The app can suggest, track, customize a healthy diet for you ensuring each one of your users to be as healthy as possible. The app can also suggest the most cost efficient location to purchase these items.  
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category: Lifestyle / Diet / Health**
+- **Mobile: This app would be primarily developed for mobile but would perhaps be just as viable on a computer, such as tinder or other similar apps. Functionality wouldn’t be limited to mobile devices, however mobile versions could potentially have more features.**
+- **Story: Gather general health status and analyze users' food choices, to suggest a diet plan that helps users to balance nutrients, and reach their goals. This app will coach and support the user in this diet process. **
+- **Market: Any individual of any age group could choose to use this app as this app does not have access accounts nor store any user information; This makes our app very secure and accessible. This app will also consider all users' culture foods as well truly being inclusive to all populations.**
+- **Habit: This app could be used as often or often as the user wanted depending on their own will and perseverance on a healthy life. It's also what exactly the user is  looking to improve in their diet and hehealt.**
+- **Scope: First we would start with just suggesting basic diet plans to users, then perhaps this could evolve into an individual diet/health coach that is tailor made for all users, as this progresses we broaden the apps usage and funcatilties. Eventually the application will have a large potential for use and be supported with apple health or samsung health. **
 
 ## Product Spec
 
