@@ -14,7 +14,7 @@ Original App Design Project - README Template
 Nutrionapp is a nutrition app that assists people in pursuing a healthy and nutrient balanced lifestyle. The app is powered by the Nutritionix Database that has data on over 1 million data points on common foods, grocery and restaurant items. The app can suggest, track, customize a healthy diet for you ensuring each one of your users to be as healthy as possible. The app can also suggest the most cost efficient location to purchase these items.  
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** Lifestyle / Diet / Health
+- **Category:** Lifestyle/ Diet/ Health
 - **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on a computer, such as tinder or other similar apps. Functionality wouldn’t be limited to mobile devices, however mobile versions could potentially have more features.
 - **Story:** Gather general health status and analyze users' food choices, to suggest a diet plan that helps users to balance nutrients, and reach their goals. This app will coach and support the user in this diet process.
 - **Market:** Any individual of any age group could choose to use this app as this app does not have access accounts nor store any user information; This makes our app very secure and accessible. This app will also consider all users' culture foods as well truly being inclusive to all populations.
