@@ -27,17 +27,25 @@ Nutrionapp is a nutrition app that assists people in pursuing a healthy and nutr
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
+* User can search for meals that match a certain nutrition plan
+* User can pick the meals and see the grocery component break down the meal
+* User can set nutrition/health goals for themselves and the app will suggest tailored meal plans
+* User can search for all common restaurant, foods and groceries item
+* Settings 
 * ...
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
+* Profile for users login/ logout
+* Profile can track user nutrition progress and balance
+* User can find the most cost efficient store or location to buy the suggested grocessaries
+* User can know the price of the nuttuionasit restaurants
+* User can enter personal health status (weight, blood pressure, etc...) to have a better customization of their nutrition coaching process
 * ...
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
+* [h]
    * [list associated required story here]
    * ...
 * [list second screen here]
