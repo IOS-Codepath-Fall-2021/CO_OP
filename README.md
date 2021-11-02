@@ -45,12 +45,13 @@ Nutrionapp is a nutrition app that assists people in pursuing a healthy and nutr
 
 ### 2. Screen Archetypes
 
-* [h]
+* [Home screen - Users will be able to view the nutrition catagories]
    * [list associated required story here]
    * ...
-* [list second screen here]
+* [Search screen- Users can do explicit searches of food products]
    * [list associated required story here]
    * ...
+* [Food item screen-]
 
 ### 3. Navigation
 
