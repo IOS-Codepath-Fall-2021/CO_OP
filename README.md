@@ -29,10 +29,10 @@ Nutrionapp is a nutrition app that assists people in pursuing a healthy and nutr
 
 * User can search for meals that match a certain nutrition plan
 * User can pick the meals and see the grocery component break down the meal
+* User can scroll and view all the food nutrition data similar to an instagram display 
 * User can set nutrition/health goals for themselves and the app will suggest tailored meal plans
 * User can search for all common restaurant, foods and groceries item
 * Settings 
-* ...
 
 **Optional Nice-to-have Stories**
 
@@ -41,34 +41,52 @@ Nutrionapp is a nutrition app that assists people in pursuing a healthy and nutr
 * User can find the most cost efficient store or location to buy the suggested grocessaries
 * User can know the price of the nuttuionasit restaurants
 * User can enter personal health status (weight, blood pressure, etc...) to have a better customization of their nutrition coaching process
-* ...
 
 ### 2. Screen Archetypes
 
-* [Home screen - Users will be able to view the nutrition catagories]
-   * [list associated required story here]
-   * ...
+* [Home screen - Users will be able to view the nutrition categories]
+   * [Upon opening the app a general election will appear for quick selection of food categories listed]
 * [Search screen- Users can do explicit searches of food products]
-   * [list associated required story here]
-   * ...
-* [Food item screen-]
+   * [User can search for meals that match a certain nutrition plan] 
+   * [User can search for all common restaurant, foods and groceries item]
+   * [User can set nutrition/health goals the app will suggest meal plans]
+* [Food item screen- (like instagram) where user can scroll infinitely to browse groceries/ commo food/ meals/ etc]
+   * [User can pick the meals and see the grocery component break down of the meal]
+   * [User can scroll and view all the food nutrition data similar to an instagram display]
+* [Settings screen- each app instance can be customized and saved]
+   * [Settings]
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* [Settings]
+* [Search]
+* [Restaurants]
+
+Optional:
+
+* [Maps]
+* [Settings] --> [Profile]
+* [Restaurants] --> [Quick Selection]
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* [Home screen ->]
+   * [Settings]
+   * [Food item screen]
+   * [Search]
+* [Settings ->]
+   * [Home Screen]
+* [Food item screen ->]
+   * [Home]
+   * [Setting]
+   * [Search]
+* [Search ->]
+   * [Home]
+   * [Setting]
+   * [Food item screen]
+
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
