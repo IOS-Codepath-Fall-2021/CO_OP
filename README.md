@@ -90,6 +90,7 @@ Optional:
 
 ## Wireframes
 [Picture of hand sketched wireframes section:]
+
 <img src="https://github.com/IOS-Codepath-Fall-2021/CO_OP/blob/master/11-1-21%2C%2011_13%20PM%20Microsoft%20Lens.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
