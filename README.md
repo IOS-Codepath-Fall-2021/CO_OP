@@ -113,15 +113,15 @@ Optional:
    | updatedAt     | DateTime | date when post is last updated (default field) |
    
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
+[Add list of network requests by screen ]
+[Create basic snippets for each Parse network request]
 -
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+[OPTIONAL: List endpoints if using existing API such as Yelp]
    | Property           | Type           | Description |
    | -------------      | --------       | ------------|
-   | search_food        | Dictionary-JSON| GET/POST-basic search for food options |
-   | search_restaurants | Dictionary-JSON| GET/POST-basic search for resturant suggestions|
-   | search_nutrients   | Dictionary-JSON| GET/POST-basic search for nutrient dataBase contents|
-   | natural/nutrients  | String-QUERY   | users can get detailed nutrient break down when they search for a product.|
-   | commentsCount      | String-QUERY   | users can look up the nutrition information for any branded food item api(GET)|
+   | search_food        | Dictionary-JSON| GET/POST-basic search for food options | https://trackapi.nutritionix.com/v2/search/instant  
+   | search_restaurants | Dictionary-JSON| GET/POST-basic search for resturant suggestions|  https://trackapi.nutritionix.com/v2/locations
+   | search_nutrients   | Dictionary-JSON| GET/POST-basic search for nutrient dataBase contents| https://trackapi.nutritionix.com/v2/natural/nutrients
+   | natural/nutrients  | String-QUERY   | users can get detailed nutrient break down when they search for a product.| https://trackapi.nutritionix.com/v2/natural/nutrients 
+   | commentsCount      | String-QUERY   | users can look up the nutrition information for any branded food item api(GET)| https://trackapi.nutritionix.com/v2/search/item
    | Calculator         | String-QUERY   | nutrient calculator that can measure the dietary status of user  |
