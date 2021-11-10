@@ -100,7 +100,7 @@ Optional:
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[A table of models for Reading from database:]
+[A table of models for Reading from database] {optional- currently app do not need user database- that is Beta version}
    | Property      | Type     | Description |
    | ------------- | -------- | ------------|
    | objectId      | String   | unique id for the user post (default field) |
@@ -114,8 +114,42 @@ Optional:
    
 ### Networking
 [Add list of network requests by screen ]
+   - Home Table View Screen
+      - (Read/GET) Query to retrieve from database - defualt
+      - (Fetch/GET) Create a post request to ask for food suggestions
+      - (Fetch/GET) Fetch news and daily reminders form the API
+      - (Fetch/POST) Send to API filter request 
+   - Search Screen
+      - (GET/POST) Query to retrieve from database
+        -- for grocery
+        -- for resturants
+        -- for common foods
+   - Profile Screen (Beta)
+      - (Read/GET) Query logged in user object
+      - (Update/PUT) Update user profile contents
 [Create basic snippets for each Parse network request]
--
+      - (Read/GET) Query all posts where user is author
+         ```swift
+            let params = ["username":"john", "password":"123456"] as Dictionary<String, String>
+
+            var request = URLRequest(url: URL(string: "http://localhost:8080/api/1/login")!)
+            request.httpMethod = "POST"
+            request.httpBody = try? JSONSerialization.data(withJSONObject: params, options: [])
+            request.addValue("application/json", forHTTPHeaderField: "Content-Type")
+
+            let session = URLSession.shared
+            let task = session.dataTask(with: request, completionHandler: { data, response, error -> Void in
+                print(response!)
+                do {
+                    let json = try JSONSerialization.jsonObject(with: data!) as! Dictionary<String, AnyObject>
+                    print(json)
+                } catch {
+                    print("error")
+                }
+            })
+
+            task.resume()
+         ```
 [OPTIONAL: List endpoints if using existing API such as Yelp]
    | Property           | Type           | Description c                                                                  | Endpoints |
    | -------------------|----------------|--------------------------------------------------------------------------------|---------  |
