@@ -161,4 +161,4 @@ Optional:
    | Calculator         | String-QUERY   | nutrient calculator that can measure the dietary status of user|               | |
 
 
-setUp help:https://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift/46895243#46895243 , https://matteomanferdini.com/network-requests-rest-apis-ios-swift/ , https://medium.com/@nutanbhogendrasharma/consume-rest-api-in-swiftui-ios-mobile-app-b3c5d6ecf401
+SetUp help:https://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift/46895243#46895243 , https://matteomanferdini.com/network-requests-rest-apis-ios-swift/ , https://medium.com/@nutanbhogendrasharma/consume-rest-api-in-swiftui-ios-mobile-app-b3c5d6ecf401
