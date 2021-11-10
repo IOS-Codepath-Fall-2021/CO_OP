@@ -128,7 +128,7 @@ Optional:
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile contents
 [Create basic snippets for each Parse network request]
-      - (Read/GET) Query all posts where user is author
+      - (Read/GET) Query all posts where user is author -> the code below will be the Query calls for all our objects and endpoints.
          ```swift
             let params = ["username":"john", "password":"123456"] as Dictionary<String, String>
 
@@ -159,3 +159,6 @@ Optional:
    | natural/nutrients  | String-QUERY   | users can get detailed nutrient break down when they search for a product      | https://trackapi.nutritionix.com/v2/natural/nutrients |
    | commentsCount      | String-QUERY   | users can look up the nutrition information for any branded food item api(GET) | https://trackapi.nutritionix.com/v2/search/item|
    | Calculator         | String-QUERY   | nutrient calculator that can measure the dietary status of user|               | |
+
+
+setUp help:https://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift/46895243#46895243 , https://matteomanferdini.com/network-requests-rest-apis-ios-swift/ , https://medium.com/@nutanbhogendrasharma/consume-rest-api-in-swiftui-ios-mobile-app-b3c5d6ecf401
