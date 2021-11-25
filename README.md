@@ -4,10 +4,22 @@ App Design/Overview README Template
 # NutrionApp
 
 ## Table of Contents
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+1. [Milestones](#Milestones)
+2. [Overview](#Overview)
+3. [Product Spec](#Product-Spec)
+4. [Wireframes](#Wireframes)
+5. [Schema](#Schema)
+
+## Milestones
+### Milestone 1
+- [in-progress] User can search for all common restaurant, foods and groceries item.
+- [in-progress] User can scroll and view all the food nutrition data similar to an Instagram display.
+### Milestone 2
+- [X] User can search for meals that match a certain nutrition plan.
+- [X] User can pick the meals and see the grocery component break down the meal.
+### Milestone 3
+- [planned] User can set nutrition/health goals for themselves and the app will suggest tailored meal plans.
+- [planned] Settings.
 
 ## Overview
 ### Description
