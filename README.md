@@ -12,8 +12,8 @@ App Design/Overview README Template
 
 ## Milestones
 ### Milestone 1
-- [in-progress] User can search for all common restaurant, foods and groceries item.
-- [in-progress] User can scroll and view all the food nutrition data similar to an Instagram display.
+- [X] User can search for all common restaurant, foods and groceries item.
+- [X] User can scroll and view all the food nutrition data similar to an Instagram display.
 ### Milestone 2
 - [X] User can search for meals that match a certain nutrition plan.
 - [X] User can pick the meals and see the grocery component break down the meal.
