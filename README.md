@@ -4,8 +4,7 @@ App Design/Overview README Template
 # NutrionApp
 ---intro---
 
-![Alt Text]()
-
+<img src="https://github.com/IOS-Codepath-Fall-2021/CO_OP/blob/master/K1i2PR2%20-%20Imgur.gif" width="400"/>
 ## Table of Contents
 1. [Milestones](#Milestones)
 2. [Overview](#Overview)
