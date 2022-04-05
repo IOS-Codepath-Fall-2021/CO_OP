@@ -4,6 +4,8 @@ App Design/Overview README Template
 # NutrionApp
 ---intro---
 
+![Alt Text]()
+
 ## Table of Contents
 1. [Milestones](#Milestones)
 2. [Overview](#Overview)
